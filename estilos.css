@@ -1,0 +1,23 @@
+body {
+  margin: 0rem 5rem;
+}
+#indicadores li {
+  border: solid 4px silver;
+}
+#body-target {
+  margin: 20px;
+}
+
+.carousel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-item img {
+  height: 500px;
+  width: auto;
+}
+.card img{
+  height: 250px;
+}
